@@ -1,1 +1,0 @@
-{"name": "Phoenix", "property": {"life": 100, "magi": 50, "attack": 3, "evade": 5, "defense": 10}, "equipment": {"weapon": "knife", "armor": "Tshirt"}, "skills": {"punch": {"type": "p", "level": 1}, "fireball": {"type": "m", "level": 1}}, "items": {"small-life-heal": {"type": "lh", "amount": 5}, "small-magi-heal": {"type": "mh", "amount": 5}}}

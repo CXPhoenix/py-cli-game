@@ -43,7 +43,8 @@ class Character:
                             'type': 'mh',
                             'amount': 5
                         }
-                    }
+                    },
+                    'nowScene': 'starter'
                 }
                 json.dump(data, f)
             self.createRecord(name)
